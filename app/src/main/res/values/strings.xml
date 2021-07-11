@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ClickNotificationTincoder</string>
+    <string name="channel_name">channel_1</string>
+    <string name="channel_description">Day la chanel 1</string>
+
+    <string name="channel_name2">channel_2</string>
+    <string name="channel_description2">Day la chanel 2</string>
+</resources>
